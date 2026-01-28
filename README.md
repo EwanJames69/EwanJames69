@@ -18,6 +18,8 @@ I specialize in web development, working with modern frameworks and creating sol
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EwanJames69&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF)
 
+![3D Contribution Graph](https://raw.githubusercontent.com/EwanJames69/EwanJames69/main/profile-3d-contrib/profile-night-rainbow.svg)
+
 ### 📫 How to Reach Me
 
 - 💼 LinkedIn: [Ewan James]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ewan-james-33364322b/))
