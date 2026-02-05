@@ -1,5 +1,5 @@
-<p max-width="100%">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F85D7F&height=180&section=header&text=Ewan%20James&fontSize=40&fontColor=C9D1D9&animation=fadeIn" />
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F85D7F&height=180&section=header&text=Ewan%20James&fontSize=40&fontColor=C9D1D9&animation=fadeIn" />
 </p>
 
 ## About Me
@@ -19,6 +19,12 @@ Full-stack developer with a strong focus on clean architecture, maintainable cod
 
 #### 🧩 Platforms & CMS
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EwanJames69/EwanJames69/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EwanJames69/EwanJames69/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EwanJames69/EwanJames69/output/github-contribution-grid-snake.svg">
+</picture>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EwanJames69&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF)
 
