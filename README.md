@@ -44,7 +44,7 @@ Full-stack developer with a strong focus on clean architecture, maintainable cod
 
 - 💼 LinkedIn: [Ewan James](https://www.linkedin.com/in/ewan-james-33364322b/)
 - 📧 Email: ewanjames52@gmail.com
-- 🌐 Website: [Portfolio](https://ewanjames69.github.io/Portfolio/index.html) (This needs updating!! Apologies)
+- 🌐 Website: [Portfolio](https://ewanjames69.github.io/Portfolio/index.html)
   
 <img src="https://komarev.com/ghpvc/?username=EwanJames69&color=F85D7F&style=flat-square" style="pointer-events: none;" />
 
