@@ -47,4 +47,4 @@ Full-stack developer with a strong focus on clean architecture, maintainable cod
   
 <img src="https://komarev.com/ghpvc/?username=EwanJames69&color=F85D7F&style=flat-square" style="pointer-events: none;" />
 
-### Thanks for visiting! 😄
+### Thanks for the visit! 😄
